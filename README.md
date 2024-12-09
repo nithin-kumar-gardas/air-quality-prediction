@@ -17,4 +17,4 @@
 ### Instructions to Run:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone https://github.com/nithin-kumar-gardas/air-quality-prediction.git
